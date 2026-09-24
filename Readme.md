@@ -3,14 +3,14 @@
 <h3 align="center">A passionate FullStack developer</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/65198b6e-e407-4c8f-8500-6768cb35a76c_car_1x1.gif?h=cf2ee241356101c627e3efd748d598c0">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dheeraj26-02&label=Profile%20views&color=0e75b6&style=flat" alt="dheeraj26-02" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dheerajkripkani&label=Profile%20views&color=0e75b6&style=flat" alt="dheerajkripkani" /> </p>
 <p align="left"><img src="https://img.shields.io/badge/Total%20Repos-24-8b00ff" alt="Total Repositories" /></p>
 
 - 🔭 I’m currently working on **Swipe2Clean**
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available in my [Portfolio](https://dheeraj26-02.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available in my [Portfolio](https://dheerajkripkani.github.io/Portfolio/)
 
 - 💬 Ask me about **React, MongoDB**
 
@@ -94,8 +94,8 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dheeraj26-02&show_icons=true&locale=en&layout=compact" alt="dheeraj26-02" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dheerajkripkani&show_icons=true&locale=en&layout=compact" alt="dheerajkripkani" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dheeraj26-02&show_icons=true&locale=en" alt="dheeraj26-02" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dheerajkripkani&show_icons=true&locale=en" alt="dheerajkripkani" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dheeraj26-02&" alt="dheeraj26-02" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dheerajkripkani&" alt="dheerajkripkani" /></p>
