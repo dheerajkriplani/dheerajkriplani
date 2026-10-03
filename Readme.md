@@ -3,8 +3,12 @@
 <h3 align="center">A passionate FullStack developer</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/65198b6e-e407-4c8f-8500-6768cb35a76c_car_1x1.gif?h=cf2ee241356101c627e3efd748d598c0">
 
-<p align="left">  <img src="https://toolszu.com/tools/real-time-website-visitor-counter/tracker.php?id=c568c767bb8b133cc69603aebc533cc9004623940c1d8cfa357838de5fbf91ad" alt="Web Visitor Counter" border="0" style="display: inline-block;">
-</p>
+<div style="text-align: left; width: 100%;">
+  <div style="font-family: Arial, sans-serif; font-size: 14px; font-weight: 600; color: #475569; padding-bottom: 5px;">Total views</div>
+  <a href="https://toolszu.com/tools/real-time-website-visitor-counter/" target="_blank">
+    <img src="https://toolszu.com/tools/real-time-website-visitor-counter/tracker.php?id=c568c767bb8b133cc69603aebc533cc9004623940c1d8cfa357838de5fbf91ad" alt="Web Visitor Counter" border="0" style="display: inline-block;">
+  </a>
+</div>
 <p align="left"><img src="https://img.shields.io/badge/Total%20Repos-24-8b00ff" alt="Total Repositories" /></p>
 
 - 🔭 I’m currently working on **Swipe2Clean**
