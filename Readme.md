@@ -6,7 +6,7 @@
 <p>
   Total Visitors:
   <img
-    src="https://toolszu.com/tools/website-visitor-counter/tracker.php?id=67f45937bfbb2c7f181d1a387785bd7de374e2f32646bb94f6f5db626420cc1b"
+    src="https://toolszu.com/tools/website-visitor-counter/tracker.php?id=a52b22a555a967da909bf8c6ffdcad711ca64ac4077df83aac68e7cfc6c0c3cf"
     alt="Total Visitors"
     height="30"
     align="absmiddle">
