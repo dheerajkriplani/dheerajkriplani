@@ -6,7 +6,7 @@
 <span style="display:inline;">Total Visitors:
 <img  src="https://toolszu.com/tools/website-visitor-counter/tracker.php?id=67f45937bfbb2c7f181d1a387785bd7de374e2f32646bb94f6f5db626420cc1b"
   alt="Total Visitors"
-  style="height: 30px; border-radius: 4px;"></span>
+  style="height: 30px; border-radius: 4px; margin-top:10px;"></span>
 <p align="left"><img src="https://img.shields.io/badge/Total%20Repos-24-8b00ff" alt="Total Repositories" /></p>
 
 - 🔭 I’m currently working on **Swipe2Clean**
