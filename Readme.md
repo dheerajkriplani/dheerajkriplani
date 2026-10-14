@@ -3,7 +3,7 @@
 <h3 align="center">A passionate FullStack developer</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/65198b6e-e407-4c8f-8500-6768cb35a76c_car_1x1.gif?h=cf2ee241356101c627e3efd748d598c0">
 
-<span style="display:inline;"><p>Total Visitors: </p>
+<span style="display:inline;">Total Visitors:
 <img  src="https://toolszu.com/tools/website-visitor-counter/tracker.php?id=67f45937bfbb2c7f181d1a387785bd7de374e2f32646bb94f6f5db626420cc1b"
   alt="Total Visitors"
   style="height: 30px; border-radius: 4px;"></span>
